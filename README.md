@@ -55,13 +55,17 @@ country_name	total_debt
 China	        $285,793,494,734.20
 
 6. Average amount of debt across indicators
+
 ![alt text](https://github.com/natvalenz/debtWorldBank/blob/main/images/6.jpg)
 
 7. The highest amount of principal repayments
+ 
 ![alt text](https://github.com/natvalenz/debtWorldBank/blob/main/images/7.jpg)
 
 8. The most common debt indicator
+
 ![alt text](https://github.com/natvalenz/debtWorldBank/blob/main/images/8.jpg)
 
 9. Other viable debt issues and conclusion
+
 ![alt text](https://github.com/natvalenz/debtWorldBank/blob/main/images/9.jpg)
