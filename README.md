@@ -31,9 +31,9 @@ $3,079,734.49
 
 5. Country with the highest debt
 
-country_name	total_debt
+China	        
 
-China	        $285,793,494,734.20
+$285,793,494,734.20
 
 6. Average amount of debt across indicators
 
