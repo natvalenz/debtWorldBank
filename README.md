@@ -21,6 +21,7 @@ The data used in this project is provided by The World Bank. It contains both na
 124
 
 3. Finding out the distinct debt indicators
+
 ![alt text](https://github.com/natvalenz/debtWorldBank/blob/main/images/3.jpg)
 
 4. Totaling the amount of debt owed by the countries
